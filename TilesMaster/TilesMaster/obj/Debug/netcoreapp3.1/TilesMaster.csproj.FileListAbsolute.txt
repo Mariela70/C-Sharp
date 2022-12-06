@@ -1,0 +1,14 @@
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.exe
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.deps.json
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.runtimeconfig.json
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.runtimeconfig.dev.json
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.dll
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.pdb
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.csproj.AssemblyReference.cache
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.AssemblyInfoInputs.cache
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.AssemblyInfo.cs
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.dll
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.pdb
+C:\Users\marie\source\repos\TilesMaster\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.genruntimeconfig.cache
