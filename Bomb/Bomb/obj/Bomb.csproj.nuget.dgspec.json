@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marie\\source\\repos\\Bomb\\Bomb\\Bomb.csproj": {}
+    "D:\\c#\\Bomb\\Bomb\\Bomb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marie\\source\\repos\\Bomb\\Bomb\\Bomb.csproj": {
+    "D:\\c#\\Bomb\\Bomb\\Bomb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marie\\source\\repos\\Bomb\\Bomb\\Bomb.csproj",
+        "projectUniqueName": "D:\\c#\\Bomb\\Bomb\\Bomb.csproj",
         "projectName": "Bomb",
-        "projectPath": "C:\\Users\\marie\\source\\repos\\Bomb\\Bomb\\Bomb.csproj",
+        "projectPath": "D:\\c#\\Bomb\\Bomb\\Bomb.csproj",
         "packagesPath": "C:\\Users\\marie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marie\\source\\repos\\Bomb\\Bomb\\obj\\",
+        "outputPath": "D:\\c#\\Bomb\\Bomb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marie\\AppData\\Roaming\\NuGet\\NuGet.Config",
