@@ -1,0 +1,14 @@
+C:\Users\marie\source\repos\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.exe
+C:\Users\marie\source\repos\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.deps.json
+C:\Users\marie\source\repos\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.runtimeconfig.json
+C:\Users\marie\source\repos\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.runtimeconfig.dev.json
+C:\Users\marie\source\repos\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.dll
+C:\Users\marie\source\repos\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.pdb
+C:\Users\marie\source\repos\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.csproj.AssemblyReference.cache
+C:\Users\marie\source\repos\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\source\repos\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.AssemblyInfoInputs.cache
+C:\Users\marie\source\repos\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.AssemblyInfo.cs
+C:\Users\marie\source\repos\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.dll
+C:\Users\marie\source\repos\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.pdb
+C:\Users\marie\source\repos\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.genruntimeconfig.cache
