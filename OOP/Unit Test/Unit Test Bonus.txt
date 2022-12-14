@@ -1,0 +1,223 @@
+[Test]
+    public void Hero_Creation() 
+    {
+        Hero hero = new Hero("m", 1);
+        Assert.AreEqual(hero.Name, "m");
+        Assert.AreEqual(hero.Level, 1);
+        
+    }
+    [Test]
+    public void Hero_Creation_Construktor_List_is_No_Null()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        Assert.IsNotNull(heroRepository);
+
+    }
+
+    [Test]
+    public void Hero_Repository_Create_Name()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        var hero = new Hero("m", 1);
+        heroRepository.Create(hero);
+        Assert.AreSame(heroRepository, heroRepository);
+       
+        
+    }
+    
+    
+    [Test]
+    public void Hero_Get_Hero_Creation_()
+    {
+
+        Hero hero = new Hero("m", 1);
+        Assert.AreEqual(true, hero.Name.Equals("m"));
+    }
+    [Test]
+    public void Hero_Repository_Hero_Creation_Name_Null()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        Assert.Throws<ArgumentNullException>(() =>
+        {
+
+            heroRepository.Create(null);
+
+        });
+    }
+    [Test]
+    public void Hero_Repository_Hero_Creation_Name_Exist()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        var hero = new Hero("M", 2);
+        heroRepository.Create(hero);
+        Assert.Throws<InvalidOperationException>(() =>
+        {
+
+            heroRepository.Create(hero);
+
+        });
+
+    }
+    [Test]
+    public void Hero_Repository_Hero_Creation_Name_Exist_valid_Messages()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        var hero = new Hero("M", 2);
+        var messages =heroRepository.Create(hero);
+        var expectedMessages = "Successfully added hero M with level 2";
+        Assert.AreEqual(1, heroRepository.Heroes.Count);
+        Assert.AreEqual(expectedMessages, messages);
+
+    }
+    [Test]
+    public void Hero_Repository_Remove_Throw()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        Assert.Throws<ArgumentNullException>(() => heroRepository.Remove(null));
+    }
+    [Test]
+    public void Hero_Repository_Hero_Removed_valid_Messages()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        var isRemoved = heroRepository.Remove("M");
+        Assert.IsFalse(isRemoved);
+        Assert.AreEqual(0, heroRepository.Heroes.Count);
+        
+
+    }
+    [Test]
+    public void Hero_Get_Hero_With_Highest_Level()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        var meri = new Hero("M", 2);
+        var ceco = new Hero("C", 5);
+        heroRepository.Create(meri);
+        heroRepository.Create(ceco);
+
+        var hero = heroRepository.GetHeroWithHighestLevel();
+        Assert.AreSame(ceco, hero);
+
+    }
+    [Test]
+    public void Hero_Get_Hero_()
+    {
+        HeroRepository heroRepository = new HeroRepository();
+        var meri = new Hero("M", 2);
+        var ceco = new Hero("C", 5);
+        heroRepository.Create(meri);
+        heroRepository.Create(ceco);
+
+        var hero = heroRepository.GetHero("M");
+        Assert.AreSame(meri, hero);
+
+    }
+[Test]
+        public  void Test_Aquarium_Exist() 
+        {
+            Aquarium aquarium = new Aquarium("Mariela", 50);
+            Assert.AreEqual("Mariela", aquarium.Name);
+            Assert.AreEqual(aquarium.Capacity, 50);
+        
+        }
+        [Test]
+        public void Test_Aquarium_Exist_With_Null_Name_Throes()
+        {
+            Assert.Throws<ArgumentNullException>(() =>
+            {
+
+                Aquarium aquarium = new Aquarium(null, 50);
+
+            });
+
+        }
+        [Test]
+        public void Test_Aquarium_Exist_With_Negative_Capacity_Throes()
+        {
+            Assert.Throws<ArgumentException>(() =>
+            {
+
+                Aquarium aquarium = new Aquarium("Mariela", -50);
+
+            });
+
+        }
+        [Test]
+        public void Test_Aquarium_Add_Fish_Works()
+        {
+            Aquarium aquarium = new Aquarium("Mariela", 50);
+            var fish = new Fish("Ceco");
+            var fish1 = new Fish("Mari");
+            aquarium.Add(fish);
+            aquarium.Add(fish1);
+            Assert.AreEqual(2, aquarium.Count);
+            
+           
+
+        }
+        [Test]
+        public void Test_Aquarium_Add_Fish_With_Capacity_Throes()
+        {
+            Aquarium aquarium = new Aquarium("Mariela", 0);
+            var fish = new Fish("Ceco");
+            Assert.Throws<InvalidOperationException>(() =>
+            {
+                aquarium.Add(fish);
+            
+            });
+
+        }
+        [Test]
+        public void Test_Aquarium_Remove_Fish_Works()
+        {
+            Aquarium aquarium = new Aquarium("Mariela", 1);
+            var fish = new Fish("Ceco");
+            aquarium.Add(fish);
+            aquarium.RemoveFish("Ceco");
+            Assert.AreEqual(aquarium.Count, 0);
+
+
+
+        }
+        [Test]
+        public void Test_Aquarium_Remove_Fish_With_Capacity_Throes()
+        {
+            
+            Aquarium aquarium = new Aquarium("Mariela", 1);
+            var fish = new Fish("Ceco");
+            Assert.Throws<InvalidOperationException>(() =>
+            {
+                aquarium.RemoveFish(null);
+
+            });
+
+        }
+        [Test]
+        public void Test_Self_Fish_Throes()
+        {
+            Aquarium aquarium = new Aquarium("Mariela", 1);
+            var fish = new Fish("Ceco");
+            Assert.Throws<InvalidOperationException>(() =>
+            {
+                aquarium.SellFish(null);
+
+            });
+
+        }
+        [Test]
+        public void Test_Self_Fish_Works()
+        {
+            Aquarium aquarium = new Aquarium("Mariela", 1);
+            
+            aquarium.Add(new Fish("dadada"));
+            Fish fish = aquarium.SellFish("dadada");
+            Assert.AreEqual(fish.Name, "dadada");
+            Assert.AreEqual(fish.Available, false);
+        }
+        [Test]
+        public void Report()
+        {
+            Aquarium aquarium = new Aquarium("dada", 1);
+            aquarium.Add(new Fish("dam"));
+            var report = aquarium.Report(); 
+            Assert.AreEqual($"Fish available at dada: dam", aquarium.Report());
+        }

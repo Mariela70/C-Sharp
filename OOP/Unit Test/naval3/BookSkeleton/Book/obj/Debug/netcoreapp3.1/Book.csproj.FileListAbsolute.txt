@@ -1,0 +1,14 @@
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\marie\OneDrive\Desktop\naval3\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

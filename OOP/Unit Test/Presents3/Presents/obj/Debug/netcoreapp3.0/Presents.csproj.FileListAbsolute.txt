@@ -1,0 +1,14 @@
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\marie\OneDrive\Desktop\Presents3\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache

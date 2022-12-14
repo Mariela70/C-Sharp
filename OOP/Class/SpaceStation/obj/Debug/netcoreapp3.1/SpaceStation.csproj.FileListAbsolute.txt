@@ -1,0 +1,14 @@
+C:\Users\marie\OneDrive\Desktop\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\marie\OneDrive\Desktop\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\marie\OneDrive\Desktop\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\marie\OneDrive\Desktop\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\marie\OneDrive\Desktop\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\marie\OneDrive\Desktop\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\marie\OneDrive\Desktop\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Desktop\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Desktop\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Desktop\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Desktop\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Desktop\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\marie\OneDrive\Desktop\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\marie\OneDrive\Desktop\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache
