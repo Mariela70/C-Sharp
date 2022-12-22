@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theFightforGondor", "theFightforGondor\theFightforGondor.csproj", "{A4A92509-84A1-4222-A9FC-C098467063FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4A92509-84A1-4222-A9FC-C098467063FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A92509-84A1-4222-A9FC-C098467063FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A92509-84A1-4222-A9FC-C098467063FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A92509-84A1-4222-A9FC-C098467063FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1324F91C-EC49-4BF4-B1DA-A8279FAB6E1A}
+	EndGlobalSection
+EndGlobal
